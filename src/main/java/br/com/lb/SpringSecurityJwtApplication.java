@@ -14,6 +14,9 @@ import java.util.Collection;
 import java.util.Date;
 import java.util.List;
 
+/**
+ * Application main point.
+ */
 @SpringBootApplication
 public class SpringSecurityJwtApplication {
 
