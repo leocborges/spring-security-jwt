@@ -1,2 +1,2 @@
 # spring-security-jwt
-Spring Boot projet with protected routes via JWT
+Spring Boot project with protected endpoints via JWT.
